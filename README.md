@@ -1,4 +1,4 @@
-# Fingerprint
+# Fingerprint.
 
 Um script em Python para comparar conjuntos de arquivos e identificar mudanças.
 
